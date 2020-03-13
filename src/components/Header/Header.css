@@ -1,0 +1,8 @@
+.counter{
+    left: 480px;
+    position: relative;
+    color: white;
+}
+.counter span{
+    font-weight: bold;
+}
